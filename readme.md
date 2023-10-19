@@ -1,18 +1,24 @@
-# Node.js Project with TypeScript and esbuild Starter Kit
+# typecraft
 
-This repository serves as a template for setting up a Node.js project with TypeScript and esbuild. Use this as a starting point for your new Node.js projects to get up and running quickly.
+This repository serves as a sandbox for experimenting with TypeScript helper types and common function implementations. It's designed for learning, exploring, and understanding TypeScript concepts in a practical way.
 
-## Features
+## What's Inside
 
-- **Node.js**: This project is built on Node.js, a powerful JavaScript runtime.
-- **TypeScript**: Utilize TypeScript for static typing and improved developer experience.
-- **esbuild**: Optimize and bundle your TypeScript code with esbuild for fast build times and efficient output.
-- **Ready-to-Use**: Start coding your project right away with a preconfigured development environment.
+- **TypeScript Helper Types**: Custom TypeScript types that demonstrate various data structures and scenarios.
+- **Common Functions with TypeScript**: Implementation of common functions like `concat`, `curry`, and more, with strong TypeScript typings.
+- **Educational Examples**: Code samples and exercises illustrating how to apply TypeScript features effectively.
 
-## Credit
+## Contribution
 
-This project setup is based on the tutorial provided by [Total TypeScript](https://www.totaltypescript.com/build-a-node-app-with-typescript-and-esbuild). Special thanks to *Matt Pocock* for the valuable resource.
+Contributions to enhance the learning experience are welcome! If you want to add more examples, improve explanations, or fix mistakes, feel free to open an issue or a pull request. This repository is meant to be a collaborative space for learning TypeScript.
 
-## Contributing
+## Resources
 
-If you find issues or have suggestions, please feel free to open an issue or create a pull request.
+- [TypeScript Official Documentation](https://www.typescriptlang.org/docs)
+- [TypeScript Playground](https://www.typescriptlang.org/play)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - feel free to use the code for your own learning purposes.
+
+Happy learning and happy coding!
